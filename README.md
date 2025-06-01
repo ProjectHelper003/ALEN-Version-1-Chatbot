@@ -20,3 +20,5 @@
 2. open python idle and open folder and select frontend.py
 3. press f5 to run frontend.py file
 4. make sure you installed requirement.txt file
+
+
