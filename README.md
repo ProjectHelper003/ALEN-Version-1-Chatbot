@@ -22,3 +22,4 @@
 4. make sure you installed requirement.txt file
 
 
+![Screenshot 2025-05-19 182418](https://github.com/user-attachments/assets/4ddfb7c9-95d2-4131-8b99-31a1f63c0d1c)
