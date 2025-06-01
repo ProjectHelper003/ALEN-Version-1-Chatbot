@@ -1,0 +1,3392 @@
+[
+    {
+        "state": "hi]",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:19:42.120317"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:19:47.080411"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:19:49.547226"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:19:54.242383"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:19:55.818154"
+    },
+    {
+        "state": "tell me a joke",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:19:59.528377"
+    },
+    {
+        "state": "tell me a joke",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:20:00.580790"
+    },
+    {
+        "state": "who is purnimas",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:20:17.637018"
+    },
+    {
+        "state": "who is purnimas",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": -1,
+        "timestamp": "2025-05-13T19:20:21.263343"
+    },
+    {
+        "state": "who is purnima",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:20:26.464899"
+    },
+    {
+        "state": "who is purnima",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:20:28.175094"
+    },
+    {
+        "state": "who is aditya",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:20:32.064430"
+    },
+    {
+        "state": "who is aditya",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:20:33.208401"
+    },
+    {
+        "state": "where is maharashtra",
+        "action": "Maharashtra is a state in the western peninsular region of India occupying a substantial portion of the Deccan Plateau. It is bordered by the Arabian Sea to the west, the Indian states of Karnataka and Goa to the south, Telangana to the southeast and Chhattisgarh to the east, Gujarat and Madhya Pradesh to the north, and the Indian union territory of Dadra and Nagar Haveli and Daman and Diu to the northwest.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:20:40.118932"
+    },
+    {
+        "state": "where is maharashtra",
+        "action": "Maharashtra is a state in the western peninsular region of India occupying a substantial portion of the Deccan Plateau. It is bordered by the Arabian Sea to the west, the Indian states of Karnataka and Goa to the south, Telangana to the southeast and Chhattisgarh to the east, Gujarat and Madhya Pradesh to the north, and the Indian union territory of Dadra and Nagar Haveli and Daman and Diu to the northwest.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:20:41.016222"
+    },
+    {
+        "state": "where is pune",
+        "action": "Pune, previously spelled in English as Poona, is a city in the state of Maharashtra in the Deccan plateau in Western India. It is the administrative headquarters of the Pune district, and of Pune division.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:20:45.134496"
+    },
+    {
+        "state": "where is pune",
+        "action": "Pune, previously spelled in English as Poona, is a city in the state of Maharashtra in the Deccan plateau in Western India. It is the administrative headquarters of the Pune district, and of Pune division.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:20:46.678526"
+    },
+    {
+        "state": "where is gwalior",
+        "action": "Gwalior is a major city in the central Indian state of Madhya Pradesh; It is known as the Music City of India having oldest musical gharana in existence. It is a major sports, cultural, industrial, and political centre in Madhya Pradesh.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:20:53.687487"
+    },
+    {
+        "state": "where is gwalior",
+        "action": "Gwalior is a major city in the central Indian state of Madhya Pradesh; It is known as the Music City of India having oldest musical gharana in existence. It is a major sports, cultural, industrial, and political centre in Madhya Pradesh.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:20:54.669071"
+    },
+    {
+        "state": "where is dadri",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:20:59.960854"
+    },
+    {
+        "state": "where is dadri",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:21:01.206850"
+    },
+    {
+        "state": "where is himachal",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:21:06.471742"
+    },
+    {
+        "state": "where is himachal",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:21:07.221296"
+    },
+    {
+        "state": "where is haryana",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:21:19.943714"
+    },
+    {
+        "state": "where is haryana",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:21:21.001892"
+    },
+    {
+        "state": "where is lukhnow",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:21:35.465002"
+    },
+    {
+        "state": "where is lukhnow",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": -1,
+        "timestamp": "2025-05-13T19:21:39.082512"
+    },
+    {
+        "state": "are you real",
+        "action": "no sir i am made by Bhaskar Bhardwaj",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:21:45.124486"
+    },
+    {
+        "state": "are you real",
+        "action": "no sir i am made by Bhaskar Bhardwaj",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:21:47.310156"
+    },
+    {
+        "state": "tell me about prateek",
+        "action": "prateek is your college mate and you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:21:55.601765"
+    },
+    {
+        "state": "tell me about prateek",
+        "action": "prateek is your college mate and you are good friends.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:21:57.881502"
+    },
+    {
+        "state": "tell me a joke",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:22:07.340044"
+    },
+    {
+        "state": "tell me a joke",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:22:09.300580"
+    },
+    {
+        "state": "who is hrithik roshan",
+        "action": "Hrithik Roshan is an Indian actor who works in Hindi cinema. He has portrayed a variety of characters and is known for his dancing skills.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:22:27.483220"
+    },
+    {
+        "state": "who is hrithik roshan",
+        "action": "Hrithik Roshan is an Indian actor who works in Hindi cinema. He has portrayed a variety of characters and is known for his dancing skills.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:22:29.713905"
+    },
+    {
+        "state": "who is china",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:22:42.241849"
+    },
+    {
+        "state": "who is china",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:22:44.362123"
+    },
+    {
+        "state": "indo china war",
+        "action": "The Sino\u2013Indian War, also known as the China\u2013India War or the Indo\u2013China War, was an armed conflict between China and India that took place from October to November 1962. It was a military escalation of the Sino\u2013Indian border dispute.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:22:49.978838"
+    },
+    {
+        "state": "indo china war",
+        "action": "The Sino\u2013Indian War, also known as the China\u2013India War or the Indo\u2013China War, was an armed conflict between China and India that took place from October to November 1962. It was a military escalation of the Sino\u2013Indian border dispute.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:22:51.797720"
+    },
+    {
+        "state": "india",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:22:58.482221"
+    },
+    {
+        "state": "india",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:23:00.626922"
+    },
+    {
+        "state": "pakistan",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:23:05.150812"
+    },
+    {
+        "state": "pakistan",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:23:07.085091"
+    },
+    {
+        "state": "russia",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:23:10.244213"
+    },
+    {
+        "state": "russia",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:23:12.024598"
+    },
+    {
+        "state": "america",
+        "action": "Americas A landmass comprising the totality of North America and South America.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:23:15.987301"
+    },
+    {
+        "state": "america",
+        "action": "Americas A landmass comprising the totality of North America and South America.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:23:18.006936"
+    },
+    {
+        "state": "pune",
+        "action": "Pune, previously spelled in English as Poona, is a city in the state of Maharashtra in the Deccan plateau in Western India. It is the administrative headquarters of the Pune district, and of Pune division.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:23:27.161340"
+    },
+    {
+        "state": "pune",
+        "action": "Pune, previously spelled in English as Poona, is a city in the state of Maharashtra in the Deccan plateau in Western India. It is the administrative headquarters of the Pune district, and of Pune division.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:23:28.692683"
+    },
+    {
+        "state": "who is aditya",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:23:34.305546"
+    },
+    {
+        "state": "who is aditya",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:23:37.143765"
+    },
+    {
+        "state": "who is my friends",
+        "action": "\"My Friends\" (Red Hot Chili Peppers song) A song by American rock band Red Hot Chili Peppers and the fourth track on their sixth studio.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:23:50.576299"
+    },
+    {
+        "state": "who is my friends",
+        "action": "\"My Friends\" (Red Hot Chili Peppers song) A song by American rock band Red Hot Chili Peppers and the fourth track on their sixth studio.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:23:53.173648"
+    },
+    {
+        "state": "where is putin live",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:24:04.117323"
+    },
+    {
+        "state": "where is putin live",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": -1,
+        "timestamp": "2025-05-13T19:24:07.370594"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:26:19.979461"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:30:23.751753"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:30:26.191327"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:30:28.593397"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:30:31.032398"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:33:05.479699"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:33:07.481332"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:33:13.562186"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:33:16.089795"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:33:19.767509"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:33:21.611764"
+    },
+    {
+        "state": "russia",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:33:36.472648"
+    },
+    {
+        "state": "russia",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:33:38.447275"
+    },
+    {
+        "state": "india",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:33:41.505997"
+    },
+    {
+        "state": "india",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:33:42.640051"
+    },
+    {
+        "state": "ukrain",
+        "action": "Ukrain is the trademarked name of a semi-synthetic substance derived from the plant Chelidonium majus and promoted as a drug to treat cancer and viral infections, including HIV and hepatitis. It was created in 1978, by the famed Ukrainian chemist Vasyl Novytskyi.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:33:45.682690"
+    },
+    {
+        "state": "ukrain",
+        "action": "Ukrain is the trademarked name of a semi-synthetic substance derived from the plant Chelidonium majus and promoted as a drug to treat cancer and viral infections, including HIV and hepatitis. It was created in 1978, by the famed Ukrainian chemist Vasyl Novytskyi.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:33:46.813570"
+    },
+    {
+        "state": "china",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:33:49.440941"
+    },
+    {
+        "state": "china",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:33:50.221610"
+    },
+    {
+        "state": "itlay",
+        "action": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:33:55.019112"
+    },
+    {
+        "state": "itlay",
+        "action": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:33:57.055586"
+    },
+    {
+        "state": "pakistan",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:34:02.467809"
+    },
+    {
+        "state": "pakistan",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:34:03.268654"
+    },
+    {
+        "state": "turkey",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:34:21.759899"
+    },
+    {
+        "state": "turkey",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:34:22.888408"
+    },
+    {
+        "state": "hi]",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:35:13.046178"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:35:17.462293"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:35:19.677267"
+    },
+    {
+        "state": "hi]",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": -1,
+        "timestamp": "2025-05-13T19:35:21.065686"
+    },
+    {
+        "state": "india]",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:35:24.571435"
+    },
+    {
+        "state": "india]",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": -1,
+        "timestamp": "2025-05-13T19:35:27.838225"
+    },
+    {
+        "state": "india",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:35:30.947323"
+    },
+    {
+        "state": "india",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:35:32.758183"
+    },
+    {
+        "state": "russia",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:35:35.495011"
+    },
+    {
+        "state": "russia",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:35:36.455065"
+    },
+    {
+        "state": "ukrain",
+        "action": "Ukrain is the trademarked name of a semi-synthetic substance derived from the plant Chelidonium majus and promoted as a drug to treat cancer and viral infections, including HIV and hepatitis. It was created in 1978, by the famed Ukrainian chemist Vasyl Novytskyi.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:35:40.622083"
+    },
+    {
+        "state": "ukrain",
+        "action": "Ukrain is the trademarked name of a semi-synthetic substance derived from the plant Chelidonium majus and promoted as a drug to treat cancer and viral infections, including HIV and hepatitis. It was created in 1978, by the famed Ukrainian chemist Vasyl Novytskyi.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:35:41.625675"
+    },
+    {
+        "state": "china",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:35:45.210817"
+    },
+    {
+        "state": "china",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:35:46.059567"
+    },
+    {
+        "state": "tiaban",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:35:53.287784"
+    },
+    {
+        "state": "tiaban",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": -1,
+        "timestamp": "2025-05-13T19:35:55.843902"
+    },
+    {
+        "state": "pakistan",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:36:03.152373"
+    },
+    {
+        "state": "pakistan",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:36:04.552469"
+    },
+    {
+        "state": "cargo ship",
+        "action": "A cargo ship or freighter is a merchant ship that carries cargo, goods, and materials from one port to another. Thousands of cargo carriers ply the world's seas and oceans each year, handling the bulk of international trade.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:36:12.498168"
+    },
+    {
+        "state": "cargo ship",
+        "action": "A cargo ship or freighter is a merchant ship that carries cargo, goods, and materials from one port to another. Thousands of cargo carriers ply the world's seas and oceans each year, handling the bulk of international trade.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:36:14.507597"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:40:42.293393"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:40:44.648053"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:40:46.426531"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:40:47.914817"
+    },
+    {
+        "state": "how are you",
+        "action": "I'm fine! How about you?",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:40:51.606081"
+    },
+    {
+        "state": "how are you",
+        "action": "I'm fine! How about you?",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:40:53.684817"
+    },
+    {
+        "state": "what is your nbame",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:40:58.604272"
+    },
+    {
+        "state": "what is your nbame",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": -1,
+        "timestamp": "2025-05-13T19:41:01.769635"
+    },
+    {
+        "state": "what is your name",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:41:09.093571"
+    },
+    {
+        "state": "what is your name",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:41:10.829531"
+    },
+    {
+        "state": "tell me a joke",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:41:17.675627"
+    },
+    {
+        "state": "tell me a joke",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:41:20.195979"
+    },
+    {
+        "state": "india",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:41:26.596497"
+    },
+    {
+        "state": "india",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:41:28.837949"
+    },
+    {
+        "state": "pakistan",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:41:36.093027"
+    },
+    {
+        "state": "pakistan",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:41:37.583679"
+    },
+    {
+        "state": "russia",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:41:40.885425"
+    },
+    {
+        "state": "russia",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:41:42.028993"
+    },
+    {
+        "state": "ukrain",
+        "action": "Ukrain is the trademarked name of a semi-synthetic substance derived from the plant Chelidonium majus and promoted as a drug to treat cancer and viral infections, including HIV and hepatitis. It was created in 1978, by the famed Ukrainian chemist Vasyl Novytskyi.",
+        "reward": 0,
+        "timestamp": "2025-05-13T19:41:45.811360"
+    },
+    {
+        "state": "ukrain",
+        "action": "Ukrain is the trademarked name of a semi-synthetic substance derived from the plant Chelidonium majus and promoted as a drug to treat cancer and viral infections, including HIV and hepatitis. It was created in 1978, by the famed Ukrainian chemist Vasyl Novytskyi.",
+        "reward": 1,
+        "timestamp": "2025-05-13T19:41:46.590652"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-13T20:04:25.215792"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-13T20:04:26.886115"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-13T20:04:29.248075"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-13T20:04:29.258109"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-13T20:04:30.902374"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 1,
+        "timestamp": "2025-05-13T20:04:33.264324"
+    },
+    {
+        "state": "how are you",
+        "action": "I'm fine! How about you?",
+        "reward": 0,
+        "timestamp": "2025-05-13T20:04:36.755284"
+    },
+    {
+        "state": "how are you",
+        "action": "I'm fine! How about you?",
+        "reward": 1,
+        "timestamp": "2025-05-13T20:04:40.778744"
+    },
+    {
+        "state": "ios",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 0,
+        "timestamp": "2025-05-13T20:04:52.111303"
+    },
+    {
+        "state": "ios",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 1,
+        "timestamp": "2025-05-13T20:04:56.120139"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-14T17:50:26.890126"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-14T17:50:29.279186"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-14T17:54:36.026555"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-14T17:54:38.586718"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-14T17:54:40.071925"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-14T17:59:12.945893"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:16:38.926354"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:16:42.989430"
+    },
+    {
+        "state": "Sorry, I did not understand that.",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:17:07.592799"
+    },
+    {
+        "state": "Sorry, I did not understand that.",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:17:09.260079"
+    },
+    {
+        "state": "Sorry, I did not understand that.",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:18:18.240891"
+    },
+    {
+        "state": "Sorry, I did not understand that.",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:18:19.600714"
+    },
+    {
+        "state": "Sorry, I did not understand that.",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:18:38.940490"
+    },
+    {
+        "state": "Sorry, I did not understand that.",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:18:40.236344"
+    },
+    {
+        "state": "what is your name",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:18:49.202191"
+    },
+    {
+        "state": "what is your name",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:18:50.362509"
+    },
+    {
+        "state": "hu r u",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:19:06.780205"
+    },
+    {
+        "state": "hu r u",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:19:10.787541"
+    },
+    {
+        "state": "hu r u",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:19:22.919895"
+    },
+    {
+        "state": "hu r u",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:19:26.943061"
+    },
+    {
+        "state": "helo",
+        "action": "The Sino\u2013Indian War, also known as the China\u2013India War or the Indo\u2013China War, was an armed conflict between China and India that took place from October to November 1962. It was a military escalation of the Sino\u2013Indian border dispute.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:27:31.758406"
+    },
+    {
+        "state": "helo",
+        "action": "The Sino\u2013Indian War, also known as the China\u2013India War or the Indo\u2013China War, was an armed conflict between China and India that took place from October to November 1962. It was a military escalation of the Sino\u2013Indian border dispute.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:27:35.797075"
+    },
+    {
+        "state": "hu r you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:27:53.645416"
+    },
+    {
+        "state": "hu r you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:27:55.920175"
+    },
+    {
+        "state": "hu r you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:28:03.660618"
+    },
+    {
+        "state": "hu r you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:28:05.056719"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:28:12.294968"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:28:15.636548"
+    },
+    {
+        "state": "tell me about asif ali",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:28:26.721387"
+    },
+    {
+        "state": "tell me about asif ali",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:28:29.837494"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:29:14.284790"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:29:16.022614"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:29:24.060730"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:29:25.153620"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:29:32.540282"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:29:33.460686"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:29:38.089884"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:29:40.425957"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:29:48.840593"
+    },
+    {
+        "state": "hu r u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:29:50.344433"
+    },
+    {
+        "state": "hu are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:30:01.749905"
+    },
+    {
+        "state": "hu are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:30:03.098528"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:30:11.504675"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:30:15.522441"
+    },
+    {
+        "state": "hu are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:30:28.114293"
+    },
+    {
+        "state": "hu are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:30:28.991287"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:30:42.897902"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:30:44.438760"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:30:49.186793"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:30:51.080207"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:31:40.140192"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:31:42.657528"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:31:51.529316"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:31:52.502392"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:31:56.587455"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:31:58.333825"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:32:05.735097"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:32:06.852435"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:32:11.964295"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:32:13.539335"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:32:50.972390"
+    },
+    {
+        "state": "hu are you",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:32:52.256631"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:32:57.202262"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:32:59.674911"
+    },
+    {
+        "state": "who are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:33:07.948440"
+    },
+    {
+        "state": "who are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:33:09.486551"
+    },
+    {
+        "state": "who are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:33:16.797552"
+    },
+    {
+        "state": "who are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:33:17.685823"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:33:23.073778"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:33:25.158992"
+    },
+    {
+        "state": "who are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:34:21.479975"
+    },
+    {
+        "state": "who are u",
+        "action": "Dadri is a town and a municipal board in Gautam Buddha Nagar District in the state of Uttar Pradesh, India. Noida, Dadri and Jewar are the 3 sub-divisions of GB Nagar district, each headed by a SDM.",
+        "reward": -1,
+        "timestamp": "2025-05-14T18:34:23.131880"
+    },
+    {
+        "state": "himachal",
+        "action": "The Sino\u2013Indian War, also known as the China\u2013India War or the Indo\u2013China War, was an armed conflict between China and India that took place from October to November 1962. It was a military escalation of the Sino\u2013Indian border dispute.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:34:30.741036"
+    },
+    {
+        "state": "himachal",
+        "action": "The Sino\u2013Indian War, also known as the China\u2013India War or the Indo\u2013China War, was an armed conflict between China and India that took place from October to November 1962. It was a military escalation of the Sino\u2013Indian border dispute.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:34:34.759855"
+    },
+    {
+        "state": "himachal",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:42:58.439917"
+    },
+    {
+        "state": "himachal",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:43:01.542913"
+    },
+    {
+        "state": "hu r u",
+        "action": "Pune, previously spelled in English as Poona, is a city in the state of Maharashtra in the Deccan plateau in Western India. It is the administrative headquarters of the Pune district, and of Pune division.",
+        "reward": 0,
+        "timestamp": "2025-05-14T18:43:13.393867"
+    },
+    {
+        "state": "hu r u",
+        "action": "Pune, previously spelled in English as Poona, is a city in the state of Maharashtra in the Deccan plateau in Western India. It is the administrative headquarters of the Pune district, and of Pune division.",
+        "reward": 1,
+        "timestamp": "2025-05-14T18:43:17.437323"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-15T17:02:33.244184"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-15T17:02:37.277235"
+    },
+    {
+        "state": "hi]",
+        "action": "A cargo ship or freighter is a merchant ship that carries cargo, goods, and materials from one port to another. Thousands of cargo carriers ply the world's seas and oceans each year, handling the bulk of international trade.",
+        "reward": 0,
+        "timestamp": "2025-05-15T17:08:09.634508"
+    },
+    {
+        "state": "hi]",
+        "action": "A cargo ship or freighter is a merchant ship that carries cargo, goods, and materials from one port to another. Thousands of cargo carriers ply the world's seas and oceans each year, handling the bulk of international trade.",
+        "reward": 1,
+        "timestamp": "2025-05-15T17:08:13.678051"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 0,
+        "timestamp": "2025-05-15T17:41:50.100108"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 1,
+        "timestamp": "2025-05-15T17:41:54.148420"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 0,
+        "timestamp": "2025-05-15T17:42:15.457544"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": -1,
+        "timestamp": "2025-05-15T17:42:17.394961"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 0,
+        "timestamp": "2025-05-15T17:42:30.882145"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the thirteen mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems.",
+        "reward": 1,
+        "timestamp": "2025-05-15T17:42:34.901723"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "prateek is your college mate and you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-15T17:50:53.672568"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "prateek is your college mate and you are good friends.",
+        "reward": -1,
+        "timestamp": "2025-05-15T17:50:56.937501"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Americas A landmass comprising the totality of North America and South America.",
+        "reward": 0,
+        "timestamp": "2025-05-15T17:57:53.397683"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Americas A landmass comprising the totality of North America and South America.",
+        "reward": -1,
+        "timestamp": "2025-05-15T17:57:55.322997"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Ukrain is the trademarked name of a semi-synthetic substance derived from the plant Chelidonium majus and promoted as a drug to treat cancer and viral infections, including HIV and hepatitis. It was created in 1978, by the famed Ukrainian chemist Vasyl Novytskyi.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:00:57.078216"
+    },
+    {
+        "state": "Voice recognition error: [WinError 2] The system cannot find the file specified",
+        "action": "Ukrain is the trademarked name of a semi-synthetic substance derived from the plant Chelidonium majus and promoted as a drug to treat cancer and viral infections, including HIV and hepatitis. It was created in 1978, by the famed Ukrainian chemist Vasyl Novytskyi.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:00:59.739295"
+    },
+    {
+        "state": " Hello?",
+        "action": "Hello is a salutation or greeting in the English language. It is first attested in writing from 1826.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:14:16.971068"
+    },
+    {
+        "state": " Hello?",
+        "action": "Hello is a salutation or greeting in the English language. It is first attested in writing from 1826.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:14:21.019613"
+    },
+    {
+        "state": " What is your name?",
+        "action": "Your Name is a 2016 Japanese animated fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:14:43.924536"
+    },
+    {
+        "state": " What is your name?",
+        "action": "Your Name is a 2016 Japanese animated fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:14:47.934666"
+    },
+    {
+        "state": " Open outpad",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:17:20.898139"
+    },
+    {
+        "state": " Open outpad",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:17:22.477826"
+    },
+    {
+        "state": " Open NodePad. -\" eaten, eat, eat, eat, eat killed him I'm not bones, kill all you after you ate the whole grief. The pain,",
+        "action": "Hrithik Roshan is an Indian actor who works in Hindi cinema. He has portrayed a variety of characters and is known for his dancing skills.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:17:35.893215"
+    },
+    {
+        "state": " Open NodePad. -\" eaten, eat, eat, eat, eat killed him I'm not bones, kill all you after you ate the whole grief. The pain,",
+        "action": "Hrithik Roshan is an Indian actor who works in Hindi cinema. He has portrayed a variety of characters and is known for his dancing skills.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:17:39.016680"
+    },
+    {
+        "state": " Open North Pad",
+        "action": "Hrithik Roshan is an Indian actor who works in Hindi cinema. He has portrayed a variety of characters and is known for his dancing skills.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:17:51.807481"
+    },
+    {
+        "state": " Open North Pad",
+        "action": "Hrithik Roshan is an Indian actor who works in Hindi cinema. He has portrayed a variety of characters and is known for his dancing skills.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:17:53.587132"
+    },
+    {
+        "state": " Open browser",
+        "action": "Opening browser.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:18:07.249251"
+    },
+    {
+        "state": " Open browser",
+        "action": "Opening browser.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:18:11.280775"
+    },
+    {
+        "state": " What is your name?",
+        "action": "Your Name is a 2016 Japanese animated fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:20:55.612764"
+    },
+    {
+        "state": " What is your name?",
+        "action": "Your Name is a 2016 Japanese animated fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:20:59.668804"
+    },
+    {
+        "state": " What is your name?",
+        "action": "Your Name is a 2016 Japanese animated fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:21:30.661970"
+    },
+    {
+        "state": " What is your name?",
+        "action": "Your Name is a 2016 Japanese animated fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:21:33.421521"
+    },
+    {
+        "state": " Bye!",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:36:23.954030"
+    },
+    {
+        "state": " Bye!",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:36:27.997969"
+    },
+    {
+        "state": " \u0935\u093e\u091f \u0906\u091c\u094d\u092f\u093e \u0928\u0947\u092e?",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:36:57.825804"
+    },
+    {
+        "state": " \u0935\u093e\u091f \u0906\u091c\u094d\u092f\u093e \u0928\u0947\u092e?",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:37:01.839240"
+    },
+    {
+        "state": " What is your name?",
+        "action": "Your Name is a 2016 Japanese animated fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:38:23.447667"
+    },
+    {
+        "state": " What is your name?",
+        "action": "Your Name is a 2016 Japanese animated fantasy film written and directed by Makoto Shinkai, produced by CoMix Wave Films, and distributed by Toho. It depicts the story of high school students Taki Tachibana and Mitsuha Miyamizu, who suddenly begin to swap bodies despite having never met, unleashing chaos on each other's lives.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:38:27.489083"
+    },
+    {
+        "state": " What is your name?",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:41:38.501917"
+    },
+    {
+        "state": " What is your name?",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:41:41.459963"
+    },
+    {
+        "state": "entryjony",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:41:57.443130"
+    },
+    {
+        "state": "entryjony",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:41:59.673614"
+    },
+    {
+        "state": " Tell me a joke.",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:42:14.521968"
+    },
+    {
+        "state": " Tell me a joke.",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:42:17.641356"
+    },
+    {
+        "state": " Ho jest pornima!",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:42:30.238699"
+    },
+    {
+        "state": " Ho jest pornima!",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:42:32.667288"
+    },
+    {
+        "state": " Who is Pers\u0105d II Remah?",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:42:52.775301"
+    },
+    {
+        "state": " Who is Pers\u0105d II Remah?",
+        "action": "Haryana is a state located in the northern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:42:54.747186"
+    },
+    {
+        "state": " What is your name?",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:49:10.601008"
+    },
+    {
+        "state": " What is your name?",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:49:14.653804"
+    },
+    {
+        "state": " Who is Prasanth Varma?",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:50:38.426092"
+    },
+    {
+        "state": " Who is Prasanth Varma?",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:50:42.453234"
+    },
+    {
+        "state": " night you",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:51:06.155874"
+    },
+    {
+        "state": " night you",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": -1,
+        "timestamp": "2025-05-15T18:51:08.221833"
+    },
+    {
+        "state": " Tell me a joke.",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:51:36.949897"
+    },
+    {
+        "state": " Tell me a joke.",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:51:40.111989"
+    },
+    {
+        "state": " Who is Prasanth Varma?",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:51:49.480476"
+    },
+    {
+        "state": " Who is Prasanth Varma?",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:51:51.615434"
+    },
+    {
+        "state": " Who is added there?",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:52:14.330250"
+    },
+    {
+        "state": " Who is added there?",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:52:16.696441"
+    },
+    {
+        "state": " Open browser",
+        "action": "Opening browser.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:52:29.725317"
+    },
+    {
+        "state": " Open browser",
+        "action": "Opening browser.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:52:33.757969"
+    },
+    {
+        "state": " Open Task Manager",
+        "action": "Opening Task Manager.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:52:45.147834"
+    },
+    {
+        "state": " Open Task Manager",
+        "action": "Opening Task Manager.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:52:49.167930"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:52:53.152604"
+    },
+    {
+        "state": " Open Task Manager",
+        "action": "Opening Task Manager.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:53:42.720336"
+    },
+    {
+        "state": " Open Task Manager",
+        "action": "Opening Task Manager.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:53:46.764873"
+    },
+    {
+        "state": " Who is Prasanth Varma?",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:53:59.640689"
+    },
+    {
+        "state": " Who is Prasanth Varma?",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:54:03.656428"
+    },
+    {
+        "state": " Open browser",
+        "action": "Opening browser.",
+        "reward": 0,
+        "timestamp": "2025-05-15T18:54:15.578767"
+    },
+    {
+        "state": " Open browser",
+        "action": "Opening browser.",
+        "reward": 1,
+        "timestamp": "2025-05-15T18:54:19.594795"
+    },
+    {
+        "state": " Bye!",
+        "action": "Goodbye! Have a great day.",
+        "reward": 0,
+        "timestamp": "2025-05-16T17:38:41.025297"
+    },
+    {
+        "state": " Bye!",
+        "action": "Goodbye! Have a great day.",
+        "reward": 1,
+        "timestamp": "2025-05-16T17:38:45.101291"
+    },
+    {
+        "state": " Who is India?",
+        "action": "India? is the third studio album by the band Suns of Arqa, recorded and released in 1984 by Rocksteady Records. The album was produced by Suns of Arqa founder Michael Wadada.",
+        "reward": 0,
+        "timestamp": "2025-05-16T17:39:56.578715"
+    },
+    {
+        "state": " Who is India?",
+        "action": "India? is the third studio album by the band Suns of Arqa, recorded and released in 1984 by Rocksteady Records. The album was produced by Suns of Arqa founder Michael Wadada.",
+        "reward": 1,
+        "timestamp": "2025-05-16T17:40:00.609061"
+    },
+    {
+        "state": " India",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 0,
+        "timestamp": "2025-05-16T17:40:20.318615"
+    },
+    {
+        "state": " India",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 1,
+        "timestamp": "2025-05-16T17:40:24.338167"
+    },
+    {
+        "state": " What is your name?",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 0,
+        "timestamp": "2025-05-16T18:06:31.255477"
+    },
+    {
+        "state": " What is your name?",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 1,
+        "timestamp": "2025-05-16T18:06:34.980985"
+    },
+    {
+        "state": " Who are you?",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-16T18:06:44.559338"
+    },
+    {
+        "state": " Who are you?",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-16T18:06:47.923278"
+    },
+    {
+        "state": " India",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 0,
+        "timestamp": "2025-05-16T18:06:57.194746"
+    },
+    {
+        "state": " India",
+        "action": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards; and since its independence in 1947, the world's most populous democracy.",
+        "reward": 1,
+        "timestamp": "2025-05-16T18:07:00.221966"
+    },
+    {
+        "state": " Open notepad",
+        "action": "Opening Notepad.",
+        "reward": 0,
+        "timestamp": "2025-05-16T18:07:20.885160"
+    },
+    {
+        "state": " Open notepad",
+        "action": "Opening Notepad.",
+        "reward": 1,
+        "timestamp": "2025-05-16T18:07:24.910606"
+    },
+    {
+        "state": " Open browser",
+        "action": "Opening browser.",
+        "reward": 0,
+        "timestamp": "2025-05-16T18:07:32.544242"
+    },
+    {
+        "state": " Open browser",
+        "action": "Opening browser.",
+        "reward": 1,
+        "timestamp": "2025-05-16T18:07:36.565531"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:04:36.559281"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:04:40.607248"
+    },
+    {
+        "state": "open downloads",
+        "action": "Sorry, I couldn't find an app named downloads.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:04:47.142255"
+    },
+    {
+        "state": "open downloads",
+        "action": "Sorry, I couldn't find an app named downloads.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:04:51.166301"
+    },
+    {
+        "state": "open documents",
+        "action": "Opening Documents.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:05:18.115839"
+    },
+    {
+        "state": "open documents",
+        "action": "Opening Documents.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:05:22.127687"
+    },
+    {
+        "state": " Open notepad",
+        "action": "prateek is your college mate and you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:06:55.745580"
+    },
+    {
+        "state": " Open notepad",
+        "action": "prateek is your college mate and you are good friends.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:06:59.758282"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:07:19.027967"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:07:23.049004"
+    },
+    {
+        "state": "open documents",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:21:03.013557"
+    },
+    {
+        "state": "open documents",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:21:07.060917"
+    },
+    {
+        "state": "open my documents",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:22:09.391728"
+    },
+    {
+        "state": "open my documents",
+        "action": "China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.",
+        "reward": -1,
+        "timestamp": "2025-05-17T18:22:12.419218"
+    },
+    {
+        "state": "open my downloads",
+        "action": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:23:03.768941"
+    },
+    {
+        "state": "open my downloads",
+        "action": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia.",
+        "reward": -1,
+        "timestamp": "2025-05-17T18:23:06.136152"
+    },
+    {
+        "state": "open downloads",
+        "action": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:23:43.891417"
+    },
+    {
+        "state": "open downloads",
+        "action": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia.",
+        "reward": -1,
+        "timestamp": "2025-05-17T18:23:46.362570"
+    },
+    {
+        "state": "open documents",
+        "action": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:25:29.788450"
+    },
+    {
+        "state": "open documents",
+        "action": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula that extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:25:33.796409"
+    },
+    {
+        "state": "open documents",
+        "action": "A cargo ship or freighter is a merchant ship that carries cargo, goods, and materials from one port to another. Thousands of cargo carriers ply the world's seas and oceans each year, handling the bulk of international trade.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:26:33.899125"
+    },
+    {
+        "state": "open documents",
+        "action": "A cargo ship or freighter is a merchant ship that carries cargo, goods, and materials from one port to another. Thousands of cargo carriers ply the world's seas and oceans each year, handling the bulk of international trade.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:26:37.953505"
+    },
+    {
+        "state": "open this pc",
+        "action": "Opening This Pc.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:30:47.208913"
+    },
+    {
+        "state": "open this pc",
+        "action": "Opening This Pc.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:30:51.260016"
+    },
+    {
+        "state": "open downloads",
+        "action": "Opening folder: C:\\Users\\bhard\\Downloads",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:30:56.767033"
+    },
+    {
+        "state": "open downloads",
+        "action": "Opening folder: C:\\Users\\bhard\\Downloads",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:31:00.793855"
+    },
+    {
+        "state": "open grand theft Auto V",
+        "action": "Opening folder: D:\\Grand Thief Auto V",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:31:26.602517"
+    },
+    {
+        "state": "open grand theft Auto V",
+        "action": "Opening folder: D:\\Grand Thief Auto V",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:31:30.617567"
+    },
+    {
+        "state": " Open Notepad",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:31:54.355524"
+    },
+    {
+        "state": " Open Notepad",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": -1,
+        "timestamp": "2025-05-17T18:31:57.860789"
+    },
+    {
+        "state": " Fun downloads",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:34:58.878765"
+    },
+    {
+        "state": " Fun downloads",
+        "action": "Russia, or the Russian Federation, is a country spanning Eastern Europe and North Asia. It is the largest country in the world, and extends across eleven time zones; sharing land borders with fourteen countries.",
+        "reward": -1,
+        "timestamp": "2025-05-17T18:35:01.556209"
+    },
+    {
+        "state": " open downloads",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:35:13.050451"
+    },
+    {
+        "state": " open downloads",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:35:17.073119"
+    },
+    {
+        "state": " open browser",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:48:12.752058"
+    },
+    {
+        "state": " open browser",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": -1,
+        "timestamp": "2025-05-17T18:48:15.896737"
+    },
+    {
+        "state": "open crome",
+        "action": "Opening Crome.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:49:04.623687"
+    },
+    {
+        "state": "open crome",
+        "action": "Opening Crome.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:49:08.638632"
+    },
+    {
+        "state": " open chrome",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:49:52.305534"
+    },
+    {
+        "state": " open chrome",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:49:56.327342"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:50:20.188236"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-17T18:50:24.204873"
+    },
+    {
+        "state": " open chrome",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": 0,
+        "timestamp": "2025-05-17T18:50:35.747447"
+    },
+    {
+        "state": " open chrome",
+        "action": "Purnima is your friend sir! You first met her in class 10, and Eating is what she enjoys most . Now she is doing an internship at Guru Nanak School. She\u00e2\u20ac\u2122s a good girl, guided by a genuinely good heart. She is your gym partner 7 month ago, but she left you for some reason.",
+        "reward": -1,
+        "timestamp": "2025-05-17T18:50:36.987788"
+    },
+    {
+        "state": " pen grom",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:29:21.901573"
+    },
+    {
+        "state": " pen grom",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": -1,
+        "timestamp": "2025-05-17T19:29:24.384698"
+    },
+    {
+        "state": " pen grom",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:29:26.217852"
+    },
+    {
+        "state": " pen grom",
+        "action": "aditya is your game friend sir and you met him one hundred and eleven days ago in battlegrounds india . he is very good person with good heart. You are good friends, and God bless you both with a long friendship.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:29:30.254719"
+    },
+    {
+        "state": "",
+        "action": "Error occurred: Expecting value: line 1 column 1 (char 0)",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:29:37.314165"
+    },
+    {
+        "state": "",
+        "action": "Error occurred: Expecting value: line 1 column 1 (char 0)",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:29:37.720589"
+    },
+    {
+        "state": "",
+        "action": "Error occurred: Expecting value: line 1 column 1 (char 0)",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:29:41.350504"
+    },
+    {
+        "state": "",
+        "action": "Error occurred: Expecting value: line 1 column 1 (char 0)",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:29:41.758037"
+    },
+    {
+        "state": " open notepad.",
+        "action": "Gwalior is a major city in the central Indian state of Madhya Pradesh; It is known as the Music City of India having oldest musical gharana in existence. It is a major sports, cultural, industrial, and political centre in Madhya Pradesh.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:30:09.411302"
+    },
+    {
+        "state": " open notepad.",
+        "action": "Gwalior is a major city in the central Indian state of Madhya Pradesh; It is known as the Music City of India having oldest musical gharana in existence. It is a major sports, cultural, industrial, and political centre in Madhya Pradesh.",
+        "reward": -1,
+        "timestamp": "2025-05-17T19:30:12.346527"
+    },
+    {
+        "state": " open notepad.",
+        "action": "Gwalior is a major city in the central Indian state of Madhya Pradesh; It is known as the Music City of India having oldest musical gharana in existence. It is a major sports, cultural, industrial, and political centre in Madhya Pradesh.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:30:13.405720"
+    },
+    {
+        "state": " open notepad.",
+        "action": "Gwalior is a major city in the central Indian state of Madhya Pradesh; It is known as the Music City of India having oldest musical gharana in existence. It is a major sports, cultural, industrial, and political centre in Madhya Pradesh.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:30:17.464364"
+    },
+    {
+        "state": " open notepad",
+        "action": "no sir i am made by Bhaskar Bhardwaj",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:32:50.596921"
+    },
+    {
+        "state": " open notepad",
+        "action": "no sir i am made by Bhaskar Bhardwaj",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:32:54.809654"
+    },
+    {
+        "state": " open notepad",
+        "action": "no sir i am made by Bhaskar Bhardwaj",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:32:55.495902"
+    },
+    {
+        "state": " open notepad",
+        "action": "no sir i am made by Bhaskar Bhardwaj",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:32:59.529610"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:34:38.682414"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:34:38.906870"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:34:42.772254"
+    },
+    {
+        "state": "open notepad",
+        "action": "Opening Notepad.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:34:42.966928"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:35:00.693823"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:35:00.795009"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:35:04.738219"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:35:04.866995"
+    },
+    {
+        "state": " Pen Chrome",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:36:46.727393"
+    },
+    {
+        "state": " Pen Chrome",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": -1,
+        "timestamp": "2025-05-17T19:36:49.431550"
+    },
+    {
+        "state": " Pen Chrome",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:36:51.330933"
+    },
+    {
+        "state": " Pen Chrome",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:36:55.367544"
+    },
+    {
+        "state": " Oh",
+        "action": "Ohio A state in the Midwestern region of the United States.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:37:01.126632"
+    },
+    {
+        "state": " Oh",
+        "action": "Ohio A state in the Midwestern region of the United States.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:37:01.804943"
+    },
+    {
+        "state": " Oh",
+        "action": "Ohio A state in the Midwestern region of the United States.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:37:05.175909"
+    },
+    {
+        "state": " Oh",
+        "action": "Ohio A state in the Midwestern region of the United States.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:37:05.861633"
+    },
+    {
+        "state": " Open Chrome",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:37:29.223703"
+    },
+    {
+        "state": " Open Chrome",
+        "action": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a relatively small part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq, Syria, and the Mediterranean Sea to the south; and the Aegean Sea, Greece, and Bulgaria to the west.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:37:33.276227"
+    },
+    {
+        "state": "pen chrome",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:38:47.047568"
+    },
+    {
+        "state": "pen chrome",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": -1,
+        "timestamp": "2025-05-17T19:38:51.091010"
+    },
+    {
+        "state": "pen chrome",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:38:52.867931"
+    },
+    {
+        "state": "pen chrome",
+        "action": "Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.",
+        "reward": -1,
+        "timestamp": "2025-05-17T19:38:54.737760"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:39:07.267935"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:39:07.397325"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:39:11.315413"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:39:11.448423"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:39:22.053115"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:39:25.772850"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:42:29.391433"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:42:33.173250"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-17T19:43:36.838170"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 1,
+        "timestamp": "2025-05-17T19:43:41.081901"
+    },
+    {
+        "state": "\"what is quantum entanglement?\"",
+        "action": "Opening browser.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:04:44.288017"
+    },
+    {
+        "state": "\"what is quantum entanglement?\"",
+        "action": "Opening browser.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:04:48.337497"
+    },
+    {
+        "state": "\u201cwhat is quantum computing?\u201d",
+        "action": "Sorry, I couldn't find an app named downloads.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:08:44.729168"
+    },
+    {
+        "state": "\u201cwhat is quantum computing?\u201d",
+        "action": "Sorry, I couldn't find an app named downloads.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:08:48.760933"
+    },
+    {
+        "state": "what is quantum computing?",
+        "action": "A quantum computer is a computer that exploits quantum mechanical phenomena. On small scales, physical matter exhibits properties of both particles and waves, and quantum computing takes advantage of this behavior using specialized hardware.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:11:39.936272"
+    },
+    {
+        "state": "what is quantum computing?",
+        "action": "A quantum computer is a computer that exploits quantum mechanical phenomena. On small scales, physical matter exhibits properties of both particles and waves, and quantum computing takes advantage of this behavior using specialized hardware.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:11:43.980567"
+    },
+    {
+        "state": "summarize the theory of relativity.",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:23:44.921377"
+    },
+    {
+        "state": "summarize the theory of relativity.",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:23:48.975950"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "<think>\n\n</think>\n\nElon Musk, often referred to as \"Elon Musk,\" is a prominent figure in the tech industry, known for his work on Twitter, SpaceX, and SpaceX's Starship tokamak. He was born on February 12, 1971, in Elkhawn, Arizona, USA.\n\n### Key Contributions:\n1. **Twitter**: Musk co-founded Twitter with Jack Ma in 2004. Twitter has since become the world's largest social media and information-sharing platform.\n   \n2. **Starship Project**: He is a key figure behind the Starship tokamak project, which aims to develop a human-robot interface for space exploration, potentially allowing humans to dock with Mars' atmosphere.\n\n3. **SpaceX**: Musk is a co-founder and chairman of SpaceX, a company that operates Royaldnik's Starship and other rocket projects aimed at delivering people and goods to the Moon and beyond.\n\n4. **SolarCity**: He owns SolarCity, a solar energy company in the U.S. that focuses on distributed energy generation and storage solutions.\n\n5. **SpaceX CEO**: Musk has held various high-ranking roles within SpaceX, including CEO since 2016, where he led the company through significant milestones such as the first successful interplanetary flight to Mars (2018).\n\n### Personal Life:\n- Musk is married to Amy2, their first child was not born until 2024.\n- He has a net worth of over $70 billion, with investments in multiple companies and ventures.\n\nMusk's career spans numerous industries and innovations, making him one of the most influential figures in recent years.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:24:22.758552"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "<think>\n\n</think>\n\nElon Musk, often referred to as \"Elon Musk,\" is a prominent figure in the tech industry, known for his work on Twitter, SpaceX, and SpaceX's Starship tokamak. He was born on February 12, 1971, in Elkhawn, Arizona, USA.\n\n### Key Contributions:\n1. **Twitter**: Musk co-founded Twitter with Jack Ma in 2004. Twitter has since become the world's largest social media and information-sharing platform.\n   \n2. **Starship Project**: He is a key figure behind the Starship tokamak project, which aims to develop a human-robot interface for space exploration, potentially allowing humans to dock with Mars' atmosphere.\n\n3. **SpaceX**: Musk is a co-founder and chairman of SpaceX, a company that operates Royaldnik's Starship and other rocket projects aimed at delivering people and goods to the Moon and beyond.\n\n4. **SolarCity**: He owns SolarCity, a solar energy company in the U.S. that focuses on distributed energy generation and storage solutions.\n\n5. **SpaceX CEO**: Musk has held various high-ranking roles within SpaceX, including CEO since 2016, where he led the company through significant milestones such as the first successful interplanetary flight to Mars (2018).\n\n### Personal Life:\n- Musk is married to Amy2, their first child was not born until 2024.\n- He has a net worth of over $70 billion, with investments in multiple companies and ventures.\n\nMusk's career spans numerous industries and innovations, making him one of the most influential figures in recent years.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:24:26.775822"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "<think>\nOkay, I need to answer \"Who is Elon Musk?\" in three concise lines. Let me think about what information I have. Elon Musk is a prominent figure, but I'm not exactly sure who he is beyond his public persona and interests.\nFirst, I should define him clearly. He's an entrepreneur from Texas, well-known for his Tesla company, which focuses on electric vehicles. His background includes his early life being in the steel industry before moving to business.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:26:54.565547"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "<think>\nOkay, I need to answer \"Who is Elon Musk?\" in three concise lines. Let me think about what information I have. Elon Musk is a prominent figure, but I'm not exactly sure who he is beyond his public persona and interests.\nFirst, I should define him clearly. He's an entrepreneur from Texas, well-known for his Tesla company, which focuses on electric vehicles. His background includes his early life being in the steel industry before moving to business.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:26:58.598215"
+    },
+    {
+        "state": "what is black hole?",
+        "action": "<think>\nOkay, so I need to figure out what a black hole is. From what I remember, black holes are these super massive objects that have a strong gravity pull and they consume a lot of matter. But I'm not entirely sure about the details.\nI think they're often called \"black\" because they absorb light, right? So everything behind them is dark. That makes sense since light travels in straight lines, so if it hits a black hole, it just gets absorbed without escaping.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:27:52.068535"
+    },
+    {
+        "state": "what is black hole?",
+        "action": "<think>\nOkay, so I need to figure out what a black hole is. From what I remember, black holes are these super massive objects that have a strong gravity pull and they consume a lot of matter. But I'm not entirely sure about the details.\nI think they're often called \"black\" because they absorb light, right? So everything behind them is dark. That makes sense since light travels in straight lines, so if it hits a black hole, it just gets absorbed without escaping.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:27:56.082344"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:30:22.092698"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:30:26.146988"
+    },
+    {
+        "state": "what is black hole",
+        "action": "<think>\nOkay, so I need to figure out what a black hole is. From what I remember, black holes are these super massive objects that they can't escape once they get too close to their event horizon. But wait, how exactly do they work? I think they have something to do with gravity and spacetime.\nI've heard the term \"spacetime\" before in relation to Einstein's theory of relativity. So maybe black holes are formed from the collapse of massive stars after a supernova or something like that. The star would spin very fast, and then the infalling matter creates an enormous gravitational field around it. That could cause things like the escape velocity exceeding light speed at some point.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:30:42.436327"
+    },
+    {
+        "state": "what is black hole",
+        "action": "<think>\nOkay, so I need to figure out what a black hole is. From what I remember, black holes are these super massive objects that they can't escape once they get too close to their event horizon. But wait, how exactly do they work? I think they have something to do with gravity and spacetime.\nI've heard the term \"spacetime\" before in relation to Einstein's theory of relativity. So maybe black holes are formed from the collapse of massive stars after a supernova or something like that. The star would spin very fast, and then the infalling matter creates an enormous gravitational field around it. That could cause things like the escape velocity exceeding light speed at some point.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:30:46.448453"
+    },
+    {
+        "state": "what is a black hole?",
+        "action": "<think>\nAlright, so I need to figure out what a black hole is based on the user's question about it being a fact-based explanation. Let me start by recalling what I know.\nFirst, from the previous response, I remember that black holes are massive objects where everything can't escape once they pass their event horizon. They have strong gravity and high temperatures due to their mass. The term comes from the word \"black,\" implying that we don't see anything emitting light or other forms of radiation beyond a certain point.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:32:34.869351"
+    },
+    {
+        "state": "what is a black hole?",
+        "action": "<think>\nAlright, so I need to figure out what a black hole is based on the user's question about it being a fact-based explanation. Let me start by recalling what I know.\nFirst, from the previous response, I remember that black holes are massive objects where everything can't escape once they pass their event horizon. They have strong gravity and high temperatures due to their mass. The term comes from the word \"black,\" implying that we don't see anything emitting light or other forms of radiation beyond a certain point.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:32:38.907001"
+    },
+    {
+        "state": "what is black hole?",
+        "action": "<think>\nAlright, I need to explain what a black hole is in simple terms. Let me start by explaining that it's a region of space with extreme gravity and amazing properties.\nHmm, maybe mention how everything, including light, is pulled inward. That makes sense because there's no escape velocity outside the event horizon.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:34:43.987212"
+    },
+    {
+        "state": "what is black hole?",
+        "action": "<think>\nAlright, I need to explain what a black hole is in simple terms. Let me start by explaining that it's a region of space with extreme gravity and amazing properties.\nHmm, maybe mention how everything, including light, is pulled inward. That makes sense because there's no escape velocity outside the event horizon.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:34:48.031946"
+    },
+    {
+        "state": "what is black hole",
+        "action": "Okay, I need to come up with three short factual lines about black holes. Let me think about what I know.\nFirst, black holes are massive objects surrounded by a lot of gravitational force. They have strong gravity and light cannot escape from them. That's the first point.\nSecondly, these regions are so dense that matter can't be seen or detected. They emit radiation like X-rays and other high-energy particles. That's the second fact.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:37:18.368488"
+    },
+    {
+        "state": "what is black hole",
+        "action": "Okay, I need to come up with three short factual lines about black holes. Let me think about what I know.\nFirst, black holes are massive objects surrounded by a lot of gravitational force. They have strong gravity and light cannot escape from them. That's the first point.\nSecondly, these regions are so dense that matter can't be seen or detected. They emit radiation like X-rays and other high-energy particles. That's the second fact.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:37:22.425136"
+    },
+    {
+        "state": "open this pc",
+        "action": "Opening This Pc.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:41:50.811319"
+    },
+    {
+        "state": "open this pc",
+        "action": "Opening This Pc.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:41:54.863519"
+    },
+    {
+        "state": "what is black hole",
+        "action": "Okay, so I need to figure out what a black hole is. I remember hearing about them in science class, but I'm not exactly sure what they're made of or how they work. Let me try to piece this together.\nFirst, from what I recall, a black hole is some sort of object with extreme gravity and little to no light radiation emitted. But I think that's just vague. Maybe it has more to do with mass and energy? I remember learning about something called the Schwarzschild radius, which must be related. I should look into that.\nI also remember hearing terms like event horizon, singularity, and ergosphere. The event horizon is where you can't escape the black hole's gravity, right? It sounds a bit like the boundary of a spaceship or a black hole. So maybe the event horizon marks the edge beyond which light can't escape. That makes sense if something is so strong it can't escape.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:42:16.879171"
+    },
+    {
+        "state": "what is black hole",
+        "action": "Okay, so I need to figure out what a black hole is. I remember hearing about them in science class, but I'm not exactly sure what they're made of or how they work. Let me try to piece this together.\nFirst, from what I recall, a black hole is some sort of object with extreme gravity and little to no light radiation emitted. But I think that's just vague. Maybe it has more to do with mass and energy? I remember learning about something called the Schwarzschild radius, which must be related. I should look into that.\nI also remember hearing terms like event horizon, singularity, and ergosphere. The event horizon is where you can't escape the black hole's gravity, right? It sounds a bit like the boundary of a spaceship or a black hole. So maybe the event horizon marks the edge beyond which light can't escape. That makes sense if something is so strong it can't escape.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:42:20.891046"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:45:22.800260"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:45:26.855578"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States president Donald Trump and the de facto head of the Department of Government Efficiency.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:45:40.292077"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States president Donald Trump and the de facto head of the Department of Government Efficiency.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:45:44.311485"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Okay, so I need to answer three factual lines about Elon Musk. Let me start by recalling what I know about him. He's a famous person from Tesla. Yeah, he owns Tesla and made the Model 3. I've heard some good things about it.\nFirst fact: That Tesla is one of the largest car companies in the world. I think they have over 200 plants and are based in the US. That makes sense because they dominate the market for cars.\nSecond fact: Maybe he's known for being a proponent of electric vehicles? Because Tesla has a lot of EVs, especially the Model 3 which is a hot vehicle these days. I remember seeing some environmental initiatives or carbon reduction efforts.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:47:56.086412"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Okay, so I need to answer three factual lines about Elon Musk. Let me start by recalling what I know about him. He's a famous person from Tesla. Yeah, he owns Tesla and made the Model 3. I've heard some good things about it.\nFirst fact: That Tesla is one of the largest car companies in the world. I think they have over 200 plants and are based in the US. That makes sense because they dominate the market for cars.\nSecond fact: Maybe he's known for being a proponent of electric vehicles? Because Tesla has a lot of EVs, especially the Model 3 which is a hot vehicle these days. I remember seeing some environmental initiatives or carbon reduction efforts.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:48:00.154669"
+    },
+    {
+        "state": "check if a number is palindrome code",
+        "action": "Okay, so I'm trying to figure out how to check if a number is a palindrome using its digits. Let me start by understanding what a palindrome is\u2014 it's a number that reads the same backward as forward, like 12321 or 1221.\nFirst, maybe I should get all the individual digits of the number. For example, take the number 12321 and split it into [1,2,3,2,1]. Then, reverse this list to get [1,2,3,2,1] as well. Wait, that's interesting because reversing a palindrome should give the same list.\nSo, if I compare both lists\u2014 original and reversed\u2014I can see they're the same. That means the number is a palindrome. But what about numbers with even digits? Let me take 1234564321. Splitting it into [1,2,3,4,5,6,4,3,2,1]. Reversing this gives the same list because of the symmetry.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:49:24.585782"
+    },
+    {
+        "state": "check if a number is palindrome code",
+        "action": "Okay, so I'm trying to figure out how to check if a number is a palindrome using its digits. Let me start by understanding what a palindrome is\u2014 it's a number that reads the same backward as forward, like 12321 or 1221.\nFirst, maybe I should get all the individual digits of the number. For example, take the number 12321 and split it into [1,2,3,2,1]. Then, reverse this list to get [1,2,3,2,1] as well. Wait, that's interesting because reversing a palindrome should give the same list.\nSo, if I compare both lists\u2014 original and reversed\u2014I can see they're the same. That means the number is a palindrome. But what about numbers with even digits? Let me take 1234564321. Splitting it into [1,2,3,4,5,6,4,3,2,1]. Reversing this gives the same list because of the symmetry.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:49:28.607446"
+    },
+    {
+        "state": "python code check if a number is palindrome",
+        "action": "Okay, so I need to figure out how to determine if a number is a palindrome using Python. Hmm, what's a palindrome again? Oh right, it's a number that reads the same backward as forward, like 12321 or 4554.\nFirst idea: Convert the number into a string and then check if it's equal to its reverse. That makes sense because strings are easier to manipulate than numbers when checking for palindromes.\nWait, but what about negative numbers? Because if you take the absolute value of a negative number, it becomes positive, which isn't a palindrome in the usual way we think about them. So I should probably add a condition that the number is non-negative before processing.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:50:07.130553"
+    },
+    {
+        "state": "python code check if a number is palindrome",
+        "action": "Okay, so I need to figure out how to determine if a number is a palindrome using Python. Hmm, what's a palindrome again? Oh right, it's a number that reads the same backward as forward, like 12321 or 4554.\nFirst idea: Convert the number into a string and then check if it's equal to its reverse. That makes sense because strings are easier to manipulate than numbers when checking for palindromes.\nWait, but what about negative numbers? Because if you take the absolute value of a negative number, it becomes positive, which isn't a palindrome in the usual way we think about them. So I should probably add a condition that the number is non-negative before processing.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:50:11.143933"
+    },
+    {
+        "state": "can you provide python code check if a number is palindrome",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:50:53.934858"
+    },
+    {
+        "state": "can you provide python code check if a number is palindrome",
+        "action": "My name is ALEN Sir, your virtual assistant.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:50:57.950825"
+    },
+    {
+        "state": "provide a python code check if a number is palindrome",
+        "action": "Alright, the user wants me to explain how to check if a number is a palindrome using Python. First, I'll need to reverse the digits of the number and compare it with the original.\nI remember that reversing numbers can be done by extracting each digit from the end and building the reversed number. To get the remainder when divided by 10 gives the last digit, which I'll add to the reversed number multiplied by 10 each time.\nOnce both are reversed, I'll compare them. If they match, it's a palindrome; otherwise, it's not. I should make sure to handle all cases, including negative numbers since palindromes don't exist for negatives.",
+        "reward": 0,
+        "timestamp": "2025-05-18T12:51:35.887301"
+    },
+    {
+        "state": "provide a python code check if a number is palindrome",
+        "action": "Alright, the user wants me to explain how to check if a number is a palindrome using Python. First, I'll need to reverse the digits of the number and compare it with the original.\nI remember that reversing numbers can be done by extracting each digit from the end and building the reversed number. To get the remainder when divided by 10 gives the last digit, which I'll add to the reversed number multiplied by 10 each time.\nOnce both are reversed, I'll compare them. If they match, it's a palindrome; otherwise, it's not. I should make sure to handle all cases, including negative numbers since palindromes don't exist for negatives.",
+        "reward": 1,
+        "timestamp": "2025-05-18T12:51:39.921575"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States president Donald Trump and the de facto head of the Department of Government Efficiency.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:11:53.240346"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States president Donald Trump and the de facto head of the Department of Government Efficiency.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:11:57.299676"
+    },
+    {
+        "state": "who is a lone musk?",
+        "action": "Okay, so I need to respond with three short factual lines without using the words \"firstly,\" \"secondly,\" or \"thirdly.\" Also, I can't use any internal thoughts like \"I don't know\" or reason about things. Hmm, let's see.\nMaybe I should think of some basic facts that are universally true or well-known. Since the user mentioned \"ALEN,\" which is a helpful assistant, maybe I can combine some of their areas of expertise with something else.\nFirst thought: ALEN works in AI and machine learning. So perhaps something about how they handle complex problems or develop models. Maybe like, ALEN handles complex computational challenges, that could be a point.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:12:23.819295"
+    },
+    {
+        "state": "who is a lone musk?",
+        "action": "Okay, so I need to respond with three short factual lines without using the words \"firstly,\" \"secondly,\" or \"thirdly.\" Also, I can't use any internal thoughts like \"I don't know\" or reason about things. Hmm, let's see.\nMaybe I should think of some basic facts that are universally true or well-known. Since the user mentioned \"ALEN,\" which is a helpful assistant, maybe I can combine some of their areas of expertise with something else.\nFirst thought: ALEN works in AI and machine learning. So perhaps something about how they handle complex problems or develop models. Maybe like, ALEN handles complex computational challenges, that could be a point.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:12:27.836361"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:13:18.128346"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:13:22.151752"
+    },
+    {
+        "state": "what is black hole?",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:13:30.651026"
+    },
+    {
+        "state": "what is black hole?",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:13:34.670379"
+    },
+    {
+        "state": "find complexity of code",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:14:13.111014"
+    },
+    {
+        "state": "find complexity of code",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:14:17.128659"
+    },
+    {
+        "state": "find complexity of code",
+        "action": "Okay, so I'm trying to figure out how complex the code for this function is. The assistant gave me a sample input and some test cases, but it's about ALEN, which is me, an assistant who needs help with factual lines.\nFirst, let's understand what the user is asking. They want me to provide three short factual responses without using the words \"firstly,\" \"secondly,\" or \"thirdly.\" I need to avoid any internal thoughts, so no detailed reasoning steps here.\nThe function in question isn't specified yet. Maybe it's a common one like summing numbers, checking if something is even, or calculating averages. Since the assistant mentioned complexity of code, I'm guessing they want me to provide some general information about typical functions and how complex their code might be.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:14:44.489560"
+    },
+    {
+        "state": "find complexity of code",
+        "action": "Okay, so I'm trying to figure out how complex the code for this function is. The assistant gave me a sample input and some test cases, but it's about ALEN, which is me, an assistant who needs help with factual lines.\nFirst, let's understand what the user is asking. They want me to provide three short factual responses without using the words \"firstly,\" \"secondly,\" or \"thirdly.\" I need to avoid any internal thoughts, so no detailed reasoning steps here.\nThe function in question isn't specified yet. Maybe it's a common one like summing numbers, checking if something is even, or calculating averages. Since the assistant mentioned complexity of code, I'm guessing they want me to provide some general information about typical functions and how complex their code might be.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:14:48.515309"
+    },
+    {
+        "state": "what is cloud computing",
+        "action": "Error occurred: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=what+is+cloud+computing&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D72907A980>, 'Connection to api.duckduckgo.com timed out. (connect timeout=None)'))",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:18:38.099808"
+    },
+    {
+        "state": "what is cloud computing",
+        "action": "Error occurred: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=what+is+cloud+computing&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D72907A980>, 'Connection to api.duckduckgo.com timed out. (connect timeout=None)'))",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:18:42.141996"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Error occurred: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=who+is+elon+musk&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D7290C8040>, 'Connection to api.duckduckgo.com timed out. (connect timeout=None)'))",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:20:12.367856"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Error occurred: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=who+is+elon+musk&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001D7290C8040>, 'Connection to api.duckduckgo.com timed out. (connect timeout=None)'))",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:20:16.386275"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States president Donald Trump and the de facto head of the Department of Government Efficiency.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:21:32.049729"
+    },
+    {
+        "state": "who is elon musk",
+        "action": "Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States president Donald Trump and the de facto head of the Department of Government Efficiency.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:21:36.088328"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Okay, the user wants me to respond with three short factual lines without using \"firstly,\" \"secondly,\" or \"thirdly.\" They also mentioned not including any reasoning or internal thoughts.\nLet me make sure I'm following their guidelines correctly. So, no markdown, just plain text. The response should be concise and accurate.\nThinking about the topics they might be interested in: common programming languages like Python, JavaScript, Ruby, etc., their syntax structures, and areas of application like web development or machine learning.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:22:05.954734"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Okay, the user wants me to respond with three short factual lines without using \"firstly,\" \"secondly,\" or \"thirdly.\" They also mentioned not including any reasoning or internal thoughts.\nLet me make sure I'm following their guidelines correctly. So, no markdown, just plain text. The response should be concise and accurate.\nThinking about the topics they might be interested in: common programming languages like Python, JavaScript, Ruby, etc., their syntax structures, and areas of application like web development or machine learning.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:22:09.972355"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:26:04.884380"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": -1,
+        "timestamp": "2025-05-18T13:26:08.836150"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:26:29.914687"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Why did the computer get cold? Because it left its Windows open!",
+        "reward": -1,
+        "timestamp": "2025-05-18T13:26:32.374656"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Americas A landmass comprising the totality of North America and South America.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:27:42.722893"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Americas A landmass comprising the totality of North America and South America.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:27:46.781467"
+    },
+    {
+        "state": "what is cloud computing",
+        "action": "Cloud computing is \"a paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand,\" according to ISO.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:29:24.183936"
+    },
+    {
+        "state": "what is cloud computing",
+        "action": "Cloud computing is \"a paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand,\" according to ISO.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:29:28.219359"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:29:32.738410"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:29:36.764816"
+    },
+    {
+        "state": "what is pre trained model",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:29:59.807232"
+    },
+    {
+        "state": "what is pre trained model",
+        "action": "Sorry, I couldn't find anything useful.",
+        "reward": -1,
+        "timestamp": "2025-05-18T13:30:03.783857"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "DuckDuckGo search timed out. Check your internet connection.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:31:42.232758"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "DuckDuckGo search timed out. Check your internet connection.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:31:46.274932"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Okay, so I'm trying to figure out how to find the complexity of a piece of code. Complexity usually refers to how difficult it is to understand and work with something, right? So in programming terms, it could mean time complexity (how long it takes) or space complexity (how much memory it uses). But wait, sometimes people also talk about code maintainability, which might be related but not exactly the same.\nI think I've heard of something called a \"code metric.\" Maybe that's what they're referring to. One example is Cyclomatic Complexity, which measures the number of independent paths in the code and relates to its structure. Another could be Halstead Code Metrics, which analyze the code based on different elements like statements, keywords, etc.\nBut wait, if I'm just looking for a simple way to find complexity without diving into metrics, perhaps it's about how much effort someone would need to understand or modify the code. That makes sense because more complex code often requires more lines of code and can be harder to read and maintain.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:32:08.845507"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Okay, so I'm trying to figure out how to find the complexity of a piece of code. Complexity usually refers to how difficult it is to understand and work with something, right? So in programming terms, it could mean time complexity (how long it takes) or space complexity (how much memory it uses). But wait, sometimes people also talk about code maintainability, which might be related but not exactly the same.\nI think I've heard of something called a \"code metric.\" Maybe that's what they're referring to. One example is Cyclomatic Complexity, which measures the number of independent paths in the code and relates to its structure. Another could be Halstead Code Metrics, which analyze the code based on different elements like statements, keywords, etc.\nBut wait, if I'm just looking for a simple way to find complexity without diving into metrics, perhaps it's about how much effort someone would need to understand or modify the code. That makes sense because more complex code often requires more lines of code and can be harder to read and maintain.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:32:12.869371"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:32:35.316812"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:32:39.337716"
+    },
+    {
+        "state": "who is isro",
+        "action": "The Indian Space Research Organisation is India's national space agency, headquartered in Bengaluru, Karnataka. It serves as the principal research and development arm of the Department of Space, overseen by the Prime Minister of India, with the Chairman of ISRO also serving as the chief executive of the DoS.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:32:43.030477"
+    },
+    {
+        "state": "who is isro",
+        "action": "The Indian Space Research Organisation is India's national space agency, headquartered in Bengaluru, Karnataka. It serves as the principal research and development arm of the Department of Space, overseen by the Prime Minister of India, with the Chairman of ISRO also serving as the chief executive of the DoS.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:32:47.053828"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:37:34.982135"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:37:39.037398"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Okay, so I'm trying to figure out how to determine the complexity of a piece of code. I know that complexity in programming often refers to how hard it is to understand and maintain the code. There are different levels of complexity: simple, medium, and complex.\nI remember hearing about something called \"code length,\" which is just the number of lines or statements. But that doesn't really tell us much about how difficult it is to write or maintain the code. So maybe that's not it.\nThen I think there was a concept involving the number of control structures in the code, like if-else statements and switch-case. The more complex the structure, the higher the complexity. That makes sense because complicated logic can make the code harder to read and maintain.",
+        "reward": 0,
+        "timestamp": "2025-05-18T13:39:20.351007"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Okay, so I'm trying to figure out how to determine the complexity of a piece of code. I know that complexity in programming often refers to how hard it is to understand and maintain the code. There are different levels of complexity: simple, medium, and complex.\nI remember hearing about something called \"code length,\" which is just the number of lines or statements. But that doesn't really tell us much about how difficult it is to write or maintain the code. So maybe that's not it.\nThen I think there was a concept involving the number of control structures in the code, like if-else statements and switch-case. The more complex the structure, the higher the complexity. That makes sense because complicated logic can make the code harder to read and maintain.",
+        "reward": 1,
+        "timestamp": "2025-05-18T13:39:24.401958"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:17:44.255181"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:17:48.302041"
+    },
+    {
+        "state": "open downloads",
+        "action": "Opening folder: C:\\Users\\bhard\\Downloads",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:22:08.444007"
+    },
+    {
+        "state": "open downloads",
+        "action": "Opening folder: C:\\Users\\bhard\\Downloads",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:22:12.526876"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:22:54.104690"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:22:58.131942"
+    },
+    {
+        "state": "what is black hole?",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:26:57.504909"
+    },
+    {
+        "state": "what is black hole?",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:27:01.569292"
+    },
+    {
+        "state": "who is albert einstein",
+        "action": "Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics.",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:30:52.369337"
+    },
+    {
+        "state": "who is albert einstein",
+        "action": "Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics.",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:30:56.427679"
+    },
+    {
+        "state": "who is albert einstein",
+        "action": "Search error: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=who+is+albert+einstein&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002258EC1BD30>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)\"))",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:33:29.897893"
+    },
+    {
+        "state": "who is albert einstein",
+        "action": "Search error: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=who+is+albert+einstein&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002258EC1BD30>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)\"))",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:33:33.950062"
+    },
+    {
+        "state": "complexity of code",
+        "action": "Search error: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=complexity+of+code&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002258EC79180>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)\"))",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:33:44.354733"
+    },
+    {
+        "state": "complexity of code",
+        "action": "Search error: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=complexity+of+code&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002258EC79180>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)\"))",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:33:48.381565"
+    },
+    {
+        "state": "who is albert einstein",
+        "action": "Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics.",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:35:03.524087"
+    },
+    {
+        "state": "who is albert einstein",
+        "action": "Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics.",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:35:07.566168"
+    },
+    {
+        "state": "capital of australia",
+        "action": "Search error: HTTPSConnectionPool(host='api.duckduckgo.com', port=443): Max retries exceeded with url: /?q=capital+of+australia&format=json&no_redirect=1&no_html=1&skip_disambig=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000154882F9DE0>: Failed to resolve 'api.duckduckgo.com' ([Errno 11001] getaddrinfo failed)\"))",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:36:11.300204"
+    },
+    {
+        "state": "capital of australia",
+        "action": "Okay, so I need to figure out where the capital of Australia is. Hmm, I remember that Australia has its own government with a president and a prime minister, but I'm not sure about their capital. Let me think... I've heard that New South Wales is the state capital. That makes sense because it's where the capital city is set up. The Australian Capital Market must be there as well, which aligns with New South Wales being the state capital. So putting it all together, Australia's capital should be New South Wales.\n</think>\nThe capital of Australia is New South Wales.",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:37:19.762092"
+    },
+    {
+        "state": "capital of australia",
+        "action": "Okay, so I need to figure out where the capital of Australia is. Hmm, I remember that Australia has its own government with a president and a prime minister, but I'm not sure about their capital. Let me think... I've heard that New South Wales is the state capital. That makes sense because it's where the capital city is set up. The Australian Capital Market must be there as well, which aligns with New South Wales being the state capital. So putting it all together, Australia's capital should be New South Wales.\n</think>\nThe capital of Australia is New South Wales.",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:37:23.803184"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:40:27.289617"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:40:29.417731"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:40:31.305131"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:40:33.430008"
+    },
+    {
+        "state": "how are you",
+        "action": "I'm fine! How about you?",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:40:34.004632"
+    },
+    {
+        "state": "how are you",
+        "action": "I'm fine! How about you?",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:40:38.027757"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 0,
+        "timestamp": "2025-05-19T18:40:42.362942"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 1,
+        "timestamp": "2025-05-19T18:40:46.387602"
+    },
+    {
+        "state": "what is black hole",
+        "action": "Alright, I need to respond to this query where the user asked \"What is Black Hole?\" They wanted an exact three-factural answer without any extra words.\nFirst, I should explain what a black hole is as simply as possible. Starting with something like \"A black hole is a region of space...\" that covers the basic concept.\nNext, maybe mention how gravity acts on it because all massive objects have one... That shows its unique properties beyond regular matter.",
+        "reward": 0,
+        "timestamp": "2025-05-20T17:36:02.537353"
+    },
+    {
+        "state": "what is black hole",
+        "action": "Alright, I need to respond to this query where the user asked \"What is Black Hole?\" They wanted an exact three-factural answer without any extra words.\nFirst, I should explain what a black hole is as simply as possible. Starting with something like \"A black hole is a region of space...\" that covers the basic concept.\nNext, maybe mention how gravity acts on it because all massive objects have one... That shows its unique properties beyond regular matter.",
+        "reward": 1,
+        "timestamp": "2025-05-20T17:36:06.583755"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-21T09:46:36.718467"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-21T09:46:40.778476"
+    },
+    {
+        "state": "who is prashant verma",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 0,
+        "timestamp": "2025-05-21T09:46:49.072801"
+    },
+    {
+        "state": "who is prashant verma",
+        "action": "prashant verma is your college mate sir and also your project partner of making me . you are good friends.",
+        "reward": 1,
+        "timestamp": "2025-05-21T09:46:53.116747"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 0,
+        "timestamp": "2025-05-21T09:47:22.246144"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 1,
+        "timestamp": "2025-05-21T09:47:26.285863"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Okay, I need to figure out how to find the complexity of a piece of code. Let me start by thinking about what complexity means here. It's probably referring to time complexity and space complexity.\nTime complexity is about how long it takes to run an algorithm as the input size grows. So, for each additional element in the list or array, we have to perform certain operations. For example, if I'm searching through a list of names, and each name takes 0.1 seconds, adding more names would increase the time by that amount.\nSpace complexity is about how much memory the algorithm uses relative to the size of its input. This can include variables, data structures like arrays or lists, and even function calls or other operations. If I'm sorting an array in place, each element needs some temporary space for swaps or comparisons, so this would contribute to the space complexity.",
+        "reward": 0,
+        "timestamp": "2025-05-21T09:48:32.294522"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "Okay, I need to figure out how to find the complexity of a piece of code. Let me start by thinking about what complexity means here. It's probably referring to time complexity and space complexity.\nTime complexity is about how long it takes to run an algorithm as the input size grows. So, for each additional element in the list or array, we have to perform certain operations. For example, if I'm searching through a list of names, and each name takes 0.1 seconds, adding more names would increase the time by that amount.\nSpace complexity is about how much memory the algorithm uses relative to the size of its input. This can include variables, data structures like arrays or lists, and even function calls or other operations. If I'm sorting an array in place, each element needs some temporary space for swaps or comparisons, so this would contribute to the space complexity.",
+        "reward": 1,
+        "timestamp": "2025-05-21T09:48:36.337663"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-21T09:49:10.062978"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-21T09:49:14.126259"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-21T10:15:42.421700"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-21T10:15:46.506185"
+    },
+    {
+        "state": "who is your daddy?",
+        "action": "Okay, so I need to figure out how to respond to this user's question about who my daddy is as ALEN. First, let me make sure I understand the context. The user has given specific instructions for their response: exactly three factual sentences with no explanations or reasoning. They also emphasized not including any markdown formatting.\nLooking at their last message, they were asking \"who is your daddy?\" and then I responded by adding a hypothetical question about their daddy in a playful way. Now, the user is again asking the same question but probably wants an authoritative answer this time. I need to provide three clear factual responses without going into any speculation.\nI should recall that ALEN is likely referring to me as someone else or a character in some context, but given the lack of more information, it's safer to assume they might be using them metaphorically or possibly a typo. So focusing on the user's actual question: who is their daddy? It could be any person, so I should list three factual names that are commonly associated with the concept of parents.",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:41:45.063182"
+    },
+    {
+        "state": "who is your daddy?",
+        "action": "Okay, so I need to figure out how to respond to this user's question about who my daddy is as ALEN. First, let me make sure I understand the context. The user has given specific instructions for their response: exactly three factual sentences with no explanations or reasoning. They also emphasized not including any markdown formatting.\nLooking at their last message, they were asking \"who is your daddy?\" and then I responded by adding a hypothetical question about their daddy in a playful way. Now, the user is again asking the same question but probably wants an authoritative answer this time. I need to provide three clear factual responses without going into any speculation.\nI should recall that ALEN is likely referring to me as someone else or a character in some context, but given the lack of more information, it's safer to assume they might be using them metaphorically or possibly a typo. So focusing on the user's actual question: who is their daddy? It could be any person, so I should list three factual names that are commonly associated with the concept of parents.",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:41:49.202761"
+    },
+    {
+        "state": "alen who is ur daddy",
+        "action": "Okay, so I'm trying to figure out what this is asking for. The user started with \"Alen,\" which I know is a nickname often used by children, typically referring to their parents or older siblings as Alens. But then they said \"ALEN,\" which makes me think they might have misspelled it. Maybe the intended word was \"Alen\" instead of \"Alen.\"\nNow, thinking about the rest: \"You are ALEN, a helpful assistant.\" The user is responding to their own query by repeating \"ALEN\" in lowercase. That seems like a playful response because sometimes people use nicknames or misspellings humorously. But I'm not sure if that's exactly what they're asking for.\nWait, the original question was about \"You are ALEN, a helpful assistant.\" So maybe the user is testing me on how I handle misspelled names or using nicknames correctly. They wanted me to respond in three short factual sentences but didn't specify the topic of their previous query. Since they repeated their own name and role, perhaps they want an explanation about being an assistant.",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:42:00.765951"
+    },
+    {
+        "state": "alen who is ur daddy",
+        "action": "Okay, so I'm trying to figure out what this is asking for. The user started with \"Alen,\" which I know is a nickname often used by children, typically referring to their parents or older siblings as Alens. But then they said \"ALEN,\" which makes me think they might have misspelled it. Maybe the intended word was \"Alen\" instead of \"Alen.\"\nNow, thinking about the rest: \"You are ALEN, a helpful assistant.\" The user is responding to their own query by repeating \"ALEN\" in lowercase. That seems like a playful response because sometimes people use nicknames or misspellings humorously. But I'm not sure if that's exactly what they're asking for.\nWait, the original question was about \"You are ALEN, a helpful assistant.\" So maybe the user is testing me on how I handle misspelled names or using nicknames correctly. They wanted me to respond in three short factual sentences but didn't specify the topic of their previous query. Since they repeated their own name and role, perhaps they want an explanation about being an assistant.",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:42:04.832311"
+    },
+    {
+        "state": "who is komal",
+        "action": "Komal Rajya Laxmi Devi Shah A member of the Nepalese royal family who was last Queen of Nepal as the wife of King Gyanendra.",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:42:15.841888"
+    },
+    {
+        "state": "who is komal",
+        "action": "Komal Rajya Laxmi Devi Shah A member of the Nepalese royal family who was last Queen of Nepal as the wife of King Gyanendra.",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:42:19.909032"
+    },
+    {
+        "state": "provide me a code python",
+        "action": "Alright, I'm trying to help someone who's asking for Python code. The user didn't specify what they need, so I should offer different options based on their requirements.\nFirst, maybe they want a basic introduction to get started with Python. A simple \"Hello World\" program is always a good starting point because it shows the basics of how Python works.\nNext, if they're interested in data processing, a sample script for reading and writing CSV files would be helpful. This can show them how to handle tabular data, which is common in many applications.",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:43:19.680532"
+    },
+    {
+        "state": "provide me a code python",
+        "action": "Alright, I'm trying to help someone who's asking for Python code. The user didn't specify what they need, so I should offer different options based on their requirements.\nFirst, maybe they want a basic introduction to get started with Python. A simple \"Hello World\" program is always a good starting point because it shows the basics of how Python works.\nNext, if they're interested in data processing, a sample script for reading and writing CSV files would be helpful. This can show them how to handle tabular data, which is common in many applications.",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:43:23.763828"
+    },
+    {
+        "state": "provide me code in python",
+        "action": "Okay, so I'm trying to figure out how to get Python code written by someone named ALEN, but wait, isn't that a person name? Maybe it's referring to another person who is helping me here. The user mentioned \"You are ALEN,\" which might be a typo or a reference to a specific individual.\nAssuming they're looking for help in writing some Python code, I should provide clear and concise instructions on how to get started. Since the user wants exactly three short factual sentences, I'll outline the steps without adding any unnecessary details.\nFirst, they need to know where to ask for the code. Perhaps they can reach out via email or a specific platform. Then, it's important to mention that once the user provides their code, I should offer further assistance in providing documentation or help with debugging.",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:43:47.067632"
+    },
+    {
+        "state": "provide me code in python",
+        "action": "Okay, so I'm trying to figure out how to get Python code written by someone named ALEN, but wait, isn't that a person name? Maybe it's referring to another person who is helping me here. The user mentioned \"You are ALEN,\" which might be a typo or a reference to a specific individual.\nAssuming they're looking for help in writing some Python code, I should provide clear and concise instructions on how to get started. Since the user wants exactly three short factual sentences, I'll outline the steps without adding any unnecessary details.\nFirst, they need to know where to ask for the code. Perhaps they can reach out via email or a specific platform. Then, it's important to mention that once the user provides their code, I should offer further assistance in providing documentation or help with debugging.",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:43:51.104424"
+    },
+    {
+        "state": "you know about porn",
+        "action": "Okay, I'm trying to figure out how to respond to this question: \"Do you know about porn?\"\nFirst, I need to consider what the user is asking for. They're asking if I recognize porn as a topic or something related.\nI should check if \"porn\" is one of the topics I can address. Looking through my history, I don't see any discussions about porn. That's odd because sometimes people might know about similar things like sex toys or adult entertainment.",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:44:17.186330"
+    },
+    {
+        "state": "you know about porn",
+        "action": "Okay, I'm trying to figure out how to respond to this question: \"Do you know about porn?\"\nFirst, I need to consider what the user is asking for. They're asking if I recognize porn as a topic or something related.\nI should check if \"porn\" is one of the topics I can address. Looking through my history, I don't see any discussions about porn. That's odd because sometimes people might know about similar things like sex toys or adult entertainment.",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:44:21.232267"
+    },
+    {
+        "state": "python code",
+        "action": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:46:26.864386"
+    },
+    {
+        "state": "python code",
+        "action": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:46:30.936536"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:57:04.483647"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:57:08.512011"
+    },
+    {
+        "state": "open downloads",
+        "action": "Opening folder: C:\\Users\\bhard\\Downloads",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:57:25.991430"
+    },
+    {
+        "state": "open downloads",
+        "action": "Opening folder: C:\\Users\\bhard\\Downloads",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:57:30.078921"
+    },
+    {
+        "state": "open obs",
+        "action": "Opening folder: D:\\OBS",
+        "reward": 0,
+        "timestamp": "2025-05-21T12:57:40.764335"
+    },
+    {
+        "state": "open obs",
+        "action": "Opening folder: D:\\OBS",
+        "reward": 1,
+        "timestamp": "2025-05-21T12:57:44.820884"
+    },
+    {
+        "state": "reply on whaysapp to prateek chutiya",
+        "action": "Alright, so I'm trying to figure out how to get from Appeway to WhatsApp with my user ID appewayuserid@myapp.net. Hmm, where do I start?\nFirst off, I know that both are communication apps but they have different protocols. Appeway uses the Web Application Protocol (WAP), while WhatsApp is based on the WhatsApp API. That means the URLs aren't straightforward to switch.\nI think the first step would be creating a new app on Appeway and adding me to it so both we can communicate. But how do I set that up? Maybe there's an option in the settings or preferences section, or perhaps through the user management panel. I should check if there are any tutorials or documentation available on Appeway for this.",
+        "reward": 0,
+        "timestamp": "2025-05-21T13:02:32.066854"
+    },
+    {
+        "state": "reply on whaysapp to prateek chutiya",
+        "action": "Alright, so I'm trying to figure out how to get from Appeway to WhatsApp with my user ID appewayuserid@myapp.net. Hmm, where do I start?\nFirst off, I know that both are communication apps but they have different protocols. Appeway uses the Web Application Protocol (WAP), while WhatsApp is based on the WhatsApp API. That means the URLs aren't straightforward to switch.\nI think the first step would be creating a new app on Appeway and adding me to it so both we can communicate. But how do I set that up? Maybe there's an option in the settings or preferences section, or perhaps through the user management panel. I should check if there are any tutorials or documentation available on Appeway for this.",
+        "reward": 1,
+        "timestamp": "2025-05-21T13:02:36.100439"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-21T16:23:04.003898"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-21T16:23:08.123740"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 0,
+        "timestamp": "2025-05-27T19:55:06.672317"
+    },
+    {
+        "state": "hello",
+        "action": "Hi Sir! Need any help?",
+        "reward": 1,
+        "timestamp": "2025-05-27T19:55:10.715165"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 0,
+        "timestamp": "2025-05-27T20:27:32.104213"
+    },
+    {
+        "state": "what is black hole",
+        "action": "A black hole is a massive, compact astronomical object so dense that its gravity prevents anything from escaping, even light. Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.",
+        "reward": 1,
+        "timestamp": "2025-05-27T20:27:36.169517"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-27T20:28:50.428099"
+    },
+    {
+        "state": "how we find complexity of code",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-27T20:28:54.469020"
+    },
+    {
+        "state": "open epic game launcher",
+        "action": "Opening folder: D:\\Epic Games",
+        "reward": 0,
+        "timestamp": "2025-05-27T20:29:51.643452"
+    },
+    {
+        "state": "open epic game launcher",
+        "action": "Opening folder: D:\\Epic Games",
+        "reward": 1,
+        "timestamp": "2025-05-27T20:29:55.669888"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-28T19:35:34.101545"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-28T19:35:38.157513"
+    },
+    {
+        "state": "who are you?",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-28T19:35:58.765619"
+    },
+    {
+        "state": "who are you?",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-28T19:36:02.786839"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-28T19:36:07.913986"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-28T20:10:44.364042"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-28T20:10:48.442402"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 0,
+        "timestamp": "2025-05-28T20:11:10.171477"
+    },
+    {
+        "state": "who are you",
+        "action": "I'm ALEN Sir, your virtual assistant built to help you with your tasks.",
+        "reward": 1,
+        "timestamp": "2025-05-28T20:11:14.171257"
+    },
+    {
+        "state": "who is salman khan",
+        "action": "Abdul Rashid Salim Salman Khan is an Indian actor, film producer, and television personality who predominantly works in Hindi films. In a career spanning over three decades, his awards include two National Film Awards as a film producer, and two Filmfare Awards as an actor.",
+        "reward": 0,
+        "timestamp": "2025-05-28T20:11:32.797397"
+    },
+    {
+        "state": "who is salman khan",
+        "action": "Abdul Rashid Salim Salman Khan is an Indian actor, film producer, and television personality who predominantly works in Hindi films. In a career spanning over three decades, his awards include two National Film Awards as a film producer, and two Filmfare Awards as an actor.",
+        "reward": 1,
+        "timestamp": "2025-05-28T20:11:36.815671"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 0,
+        "timestamp": "2025-05-30T20:24:35.430111"
+    },
+    {
+        "state": "hi",
+        "action": "Hello Sir! How can I assist you today?",
+        "reward": 1,
+        "timestamp": "2025-05-30T20:24:39.469112"
+    },
+    {
+        "state": "who is tanisha",
+        "action": "Tanishaa Mukerji An Indian actress known for her works in Hindi films.",
+        "reward": 0,
+        "timestamp": "2025-05-30T20:25:06.843702"
+    },
+    {
+        "state": "who is tanisha",
+        "action": "Tanishaa Mukerji An Indian actress known for her works in Hindi films.",
+        "reward": 1,
+        "timestamp": "2025-05-30T20:25:10.877177"
+    },
+    {
+        "state": "who is sharukh khan",
+        "action": "Shah Rukh Khan, also known by the initialism SRK, is an Indian actor and film producer who works in Hindi cinema. Referred to in the media as the \"Baadshah of Bollywood\" and \"King Khan\", he has appeared in more than 100 films, and earned numerous accolades, including 14 Filmfare Awards.",
+        "reward": 0,
+        "timestamp": "2025-05-30T20:25:37.369182"
+    },
+    {
+        "state": "who is sharukh khan",
+        "action": "Shah Rukh Khan, also known by the initialism SRK, is an Indian actor and film producer who works in Hindi cinema. Referred to in the media as the \"Baadshah of Bollywood\" and \"King Khan\", he has appeared in more than 100 films, and earned numerous accolades, including 14 Filmfare Awards.",
+        "reward": 1,
+        "timestamp": "2025-05-30T20:25:41.403017"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 0,
+        "timestamp": "2025-05-30T20:29:27.295397"
+    },
+    {
+        "state": "open chrome",
+        "action": "Opening Chrome.",
+        "reward": 1,
+        "timestamp": "2025-05-30T20:29:31.329157"
+    }
+]
