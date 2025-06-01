@@ -1,0 +1,6 @@
+tk
+pyaudio
+SpeechRecognition
+numpy
+gym
+json5
